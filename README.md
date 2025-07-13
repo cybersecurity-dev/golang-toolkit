@@ -1,2 +1,1 @@
-# golang-toolkit
-Go Programming Language Toolkit
+# Go Programming Language Toolkit
