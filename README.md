@@ -14,4 +14,15 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-You can access the Awesome Go Programming Language [here](https://github.com/cybersecurity-dev/awesome-go-programming-language)
+
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/Golang-Toolkit/graphs/contributors)!
+
+[🔼 Back to top](#go-development-toolkit)
