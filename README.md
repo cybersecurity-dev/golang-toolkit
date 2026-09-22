@@ -5,13 +5,13 @@
         </a>
     </p>
 
-# [Go](https://github.com/cybersecurity-dev/awesome-go-programming-language) Development Toolkit
+# [Go](https://github.com/cybersecurity-dev/awesome-go-programming-resources) Development Toolkit
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/Bash-Toolkit?tab=readme-ov-file#programming-language)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/PowerShell-Toolkit?tab=readme-ov-file#programming-language)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVJ54IJxdX405zajBI4amv5&si=aLEtwXN-zd3PRZtQ)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/golang/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/golang/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -22,6 +22,106 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+mindmap
+  root((Go Frameworks Ecosystem))
+
+    Web Development
+      Gin
+      Echo
+      Fiber
+      Chi
+      Gorilla Mux
+      Beego
+      Revel
+
+    Frontend Integration
+      HTMX
+      Templ
+      WebAssembly
+      Vugu
+      Go App
+
+    Desktop Development
+      Fyne
+      Wails
+      Gio
+      Lorca
+      Astilectron
+
+    GUI Components
+      Windows
+      Menus
+      Dialogs
+      Charts
+      Themes
+
+    Database Connectivity
+      database/sql
+      GORM
+      Ent
+      SQLX
+      Bun
+
+      SQL Databases
+        PostgreSQL
+        MySQL
+        SQLite
+        MSSQL
+
+      NoSQL Databases
+        MongoDB
+        Redis
+        Cassandra
+        Elasticsearch
+
+    API Development
+      REST API
+      GraphQL
+      gRPC
+      WebSocket
+
+    Cloud Native
+      Kubernetes Client-Go
+      Helm SDK
+      Operator SDK
+      OpenTelemetry
+
+    Microservices
+      Go Kit
+      Kratos
+      Goa
+      Dapr
+
+    Messaging
+      Kafka
+      RabbitMQ
+      NATS
+      MQTT
+
+    Security
+      JWT
+      OAuth2
+      Casbin
+      Gosec
+
+    Testing
+      Testify
+      Ginkgo
+      GoMock
+
+    DevOps
+      Docker
+      Kubernetes
+      Terraform
+      GitHub Actions
+
+    Monitoring
+      Prometheus
+      Grafana
+      Jaeger
+      OpenTelemetry
+```
 
 ##
 
